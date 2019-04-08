@@ -1,2 +1,2 @@
-# about--natasha
+# about-natasha
 Student assignment-George
