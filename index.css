@@ -1,14 +1,14 @@
 .background {
-	background-color: turquoise;
+	background-color: darkgoldenrod;
 }
 
-h1 {background-color: turquoise
+h1 {background-color: olivedrab;
  }
 
-h1 {font-family: Georgia, fantasy;
+h1 {font-family: Helvetica, fantasy;
 }
 
 p {
 	font-size: 19px;
-	font-family: Georgia, fantasy;
+	font-family: Helvetica, fantasy;
 }
